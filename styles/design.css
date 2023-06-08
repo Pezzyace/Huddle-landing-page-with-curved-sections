@@ -163,11 +163,12 @@ header{
   align-items: center;
 }
 .get-started-head{
-  font-size: 30px;
+  font-size: 25px;
   margin-bottom: 40px;
   font-weight: 700;
   font-family: 'Poppins', sans-serif;
   color: hsl(192, 100%, 9%);
+  text-align: center;
 }
 
 
